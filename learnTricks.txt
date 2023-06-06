@@ -1,0 +1,7 @@
+ticker symbol -  a unique series of letters assigned to a publicly traded company's stock. 
+For example - 
+AAPL: Ticker symbol for Apple Inc.
+AMZN: Ticker symbol for Amazon.com, Inc.
+GOOGL: Ticker symbol for Alphabet Inc. (Class A shares)
+MSFT: Ticker symbol for Microsoft Corporation
+TSLA: Ticker symbol for Tesla, Inc.
